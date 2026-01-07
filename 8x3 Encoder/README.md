@@ -63,7 +63,7 @@ encoder_8x3/
 
 ## Tools
 - Verilog HDL
-- Any standard Verilog simulator (ModelSim, QuestaSim, etc.)
+- ModelSim
 
 ---
 
