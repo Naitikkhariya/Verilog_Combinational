@@ -1,10 +1,14 @@
-# Verilog_Combinational
+##Verilog_Combinational
 This repository contains basic combinational circuits in verilog HDL with respective testbench .
 
-#Content
+---
+
+##Content
 1. 2:1 MUX
 
-#Tools 
-1.Verilog HDL
-2.ModelSim Simulator
+---
+
+##Tools 
+-Verilog HDL
+-ModelSim Simulator
 
