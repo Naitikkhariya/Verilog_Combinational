@@ -13,6 +13,6 @@ with respective testbench .
 ---
 
 ## Tools 
--Verilog HDL
--ModelSim Simulator
+- Verilog HDL
+- ModelSim Simulator
 
