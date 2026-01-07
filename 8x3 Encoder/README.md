@@ -58,7 +58,9 @@ encoder_8x3/
 │── encodertb.v
 │── README.md
 
+
 ---
+
 ## Tools
 - Verilog HDL
 - Any standard Verilog simulator (ModelSim, QuestaSim, etc.)
@@ -69,4 +71,5 @@ encoder_8x3/
 Naitik Khariya  
 Electronics & Communication Engineering  
 MNIT Jaipur
+
 
