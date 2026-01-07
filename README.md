@@ -8,7 +8,7 @@ with respective testbench .
 1. 2:1 Multiplexer
 2. 4:1 Multiplexer
 3. 1:4 DEMUltiplexer
-4. 8:1 Encoder
+4. 8:3 Encoder
 
 ---
 
